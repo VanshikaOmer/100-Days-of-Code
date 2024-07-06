@@ -1,8 +1,8 @@
-# 100-Days-of-Code
+![ 100-Days-of-Code](https://github.com/VanshikaOmer/100-Days-of-Code/blob/main/%23100DaysOfCode%20-%20Dark%20design.png
+)
 
-# 100 Days of Code Challenge
+ 100 Days of Code Challenge
 
-## Overview
 Welcome to my 100 Days of Code challenge! This repository tracks my progress and projects during this coding journey. The challenge is aimed at improving my coding skills and consistency.
 
 ## Motivation
