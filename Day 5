@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 5: Interactive Web Page with Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Interactive Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#section1">Section 1</a></li>
+                <li><a href="#section2">Section 2</a></li>
+                <li><a href="#section3">Section 3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="section1">
+            <h2>Section 1</h2>
+            <p>This is the first section.</p>
+        </section>
+        <section id="section2">
+            <h2>Section 2</h2>
+            <p>This is the second section.</p>
+            <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+        </section>
+        <section id="section3">
+            <h2>Section 3</h2>
+            <p>This is the third section.</p>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+            </ul>
+        </section>
+        <button id="colorButton">Change Background Color</button>
+
+        <form id="colorForm">
+            <label for="colorInput">Enter a color:</label>
+            <input type="text" id="colorInput" placeholder="e.g., #ff0000 or red">
+            <button type="submit">Apply Color</button>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
