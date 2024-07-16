@@ -25,30 +25,37 @@ By the end of this challenge, I aim to:
 100DaysOfCode Day-to-Day Progress
 
 Week 1: HTML Basics
+
 Day 1: Introduction to HTML
 Set up development environment with VS Code, Git, and GitHub.
 Created a basic HTML structure with a header, paragraph, and button.
 Learned the fundamental elements of HTML and their purposes.
+
 Day 2: Enhanced HTML Structure
 Added more content to the web page, including sections, images, and lists.
 Learned about semantic HTML tags like <section>, <header>, and <footer>.
 Improved the structure and readability of the HTML document.
+
 Day 3: Navigation and Links
 Implemented a navigation bar with links to different sections of the page.
 Used anchor tags <a> to create hyperlinks.
 Learned about the importance of navigation for user experience and SEO.
+
 Day 4: Forms and Input
 Created a simple form with input fields and a submit button.
 Learned about form elements such as <input>, <label>, and <form>.
 Discussed the importance of forms in collecting user data.
+
 Day 5: Images and Multimedia
 Added images to the web page using the <img> tag.
 Learned about the attributes of the <img> tag such as src, alt, and title.
 Discussed best practices for using images in web development.
+
 Day 6: Tables and Lists
 Created tables using <table>, <tr>, <th>, and <td> tags.
 Explored the use of ordered (<ol>) and unordered (<ul>) lists.
 Learned about the appropriate use cases for tables and lists.
+
 Day 7: HTML5 Features
 Explored new HTML5 elements like <article>, <aside>, <figure>, and <figcaption>.
 Discussed the benefits of using HTML5 for modern web development.
